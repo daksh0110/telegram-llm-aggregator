@@ -1,0 +1,14 @@
+# Telethon session files contain authenticated account data.
+*.session
+*.session-journal
+/backend/prompts/
+
+# Python environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets.
+.env
+backend/.env

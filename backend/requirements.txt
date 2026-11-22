@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+telethon
+httpx
+google-genai
+SQLAlchemy[asyncio]>=2.0,<3.0
+asyncpg
+alembic
